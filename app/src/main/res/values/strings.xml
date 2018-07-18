@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CanIBorrow</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="text_calendar">calendar</string>
+    <string name="text_explore">explore</string>
+    <string name="text_lend">lend</string>
+    <string name="text_messaging">messaging</string>
+
+</resources>

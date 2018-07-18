@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_calendar"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        android:title="@string/text_calendar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_explore"
+        android:enabled="true"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="@string/text_explore"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_lend"
+        android:enabled="true"
+        android:icon="@drawable/lend"
+        android:title="@string/text_lend"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_messaging"
+        android:enabled="true"
+        android:icon="@drawable/messaging"
+        android:title="@string/text_messaging"
+        app:showAsAction="always" />
+</menu>
